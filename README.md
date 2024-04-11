@@ -1,12 +1,3 @@
+이 repository 는 github 
 
-<html>
-    <head>
-        <title>Hello World</title>
-    </head>
 
-    <body>
-        first commit
-        <h1> Hello World</h1>
-
-    </body>
-</html>
